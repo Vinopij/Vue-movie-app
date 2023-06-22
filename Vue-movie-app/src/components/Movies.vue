@@ -61,6 +61,13 @@
   </script>
 
   <style scoped>
+    h1 {
+        display: flex;
+        justify-content: center;
+        color: whitesmoke;
+        font-size: 40px;
+        font-weight: 600;
+    }
     .movies-container {
         display: flex;
         flex-wrap: wrap;
