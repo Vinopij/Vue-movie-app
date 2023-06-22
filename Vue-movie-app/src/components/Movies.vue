@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Movies</h1>
+      <h1>The most popular movies!</h1>
       <div class="movies-container">
         <div class="movie-item" v-for="movie in movies" :key="movie.id">
             

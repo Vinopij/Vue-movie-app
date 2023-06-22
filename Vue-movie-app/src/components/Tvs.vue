@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>TVs</h1>
+      <h1>The most popular TVs!</h1>
       <div class="tvs-container">
         <div class="tv-item" v-for="tv in tvs" :key="tv.id">
             
